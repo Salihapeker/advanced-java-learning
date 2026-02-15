@@ -10,6 +10,20 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build folders
+target/
+bin/
+out/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
 # Package Files #
 *.jar
 *.war
