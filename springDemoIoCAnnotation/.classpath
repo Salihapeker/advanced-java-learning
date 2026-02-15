@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/spring-aop-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-beans-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-context-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-core-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-expression-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-jcl-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-web-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-webmvc-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
